@@ -34,6 +34,9 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <p>
 <img src="https://i.imgur.com/kQcCKj9.jpeg" height="80%" width="80%" alt="Active Directory Steps"/>
 </p>
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: Active Directory: Networking, FileShare, Adding Permissions - Part 4e](https://www.youtube.com)
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
