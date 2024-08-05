@@ -60,7 +60,7 @@ In part two of the "Watch Me Work" videos I will ensure connectivity between the
 - ### [YouTube: Active Directory: Understanding DNS (Domain Name Systems) Part 3](https://youtu.be/Yw1dAaKV7E4?si=hhT441mat48hAxBS)
 <p>
 <p>
-In video 3 I will use an Administrator account and try to ping the mainframe, this will cause an automatic failure and I will have to create a DNS record that connects to the Domain Controllers private IP address for proper connection. Then I will create a CNAME record pointing to a selected popular domain online.  
+In video three I will use an Administrator account and try to ping the mainframe, this will cause an automatic failure and I will have to create a DNS record that connects to the Domain Controllers private IP address for proper connection. Then I will create a CNAME record pointing to a selected popular domain online.  
 </p>
 
 <p>
@@ -70,7 +70,7 @@ In video 3 I will use an Administrator account and try to ping the mainframe, th
 
 - ### [YouTube: Active Directory: Networking, FileShare, Adding Permissions - Part 4](https://youtu.be/NP_XPORxqLw?si=o9jcBeti09yAV7QP)
 <p>
-In video 4 I will create some sample folders, add permissions, and attempt to access files in the folders as a user and admin. Lastly, I will create a security group, add a random user and show the results of that user accessing the file with and without the proper permissions.  
+In video four I will create some sample folders, add permissions, and attempt to access files in the folders as a user and admin. Lastly, I will create a security group, add a random user and show the results of that user accessing the file with and without the proper permissions.  
 </p>
 <br />
 
