@@ -36,7 +36,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </p>
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Active Directory: Networking, FileShare, Adding Permissions - Part 4](https://youtu.be/NP_XPORxqLw?si=o9jcBeti09yAV7QP)
+- ### [YouTube: Setup Virtual Machines in Azure for Active Directory Installation Part 1](https://youtu.be/krtXtMqDtdU?si=uARK5rHaAV8WtwLX)
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
@@ -45,6 +45,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 <img src="https://i.imgur.com/E7F3RAp.jpeg" height="80%" width="80%" alt="Remote Desktop"/>
 </p>
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: Active Directory: Setup Remote Desk Top and Non-Admin Users (Azure) - Part 2](https://youtu.be/i9fMNXR6lhQ?si=CHsIfgCcjIH7MvBk)
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
@@ -53,11 +56,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <p>
 <img src="https://i.imgur.com/AEu84WS.jpeg" height="80%" width="80%" alt="DNS"/>
 </p>
-<p>
+<h2>Video Demonstration</h2>
 
+- ### [YouTube: Active Directory: Understanding DNS (Domain Name Systems) Part 3](https://youtu.be/Yw1dAaKV7E4?si=hhT441mat48hAxBS)
+<p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+
+<h2>Video Demonstration</h2>
+
+- ### [YouTube: Active Directory: Networking, FileShare, Adding Permissions - Part 4](https://youtu.be/NP_XPORxqLw?si=o9jcBeti09yAV7QP)
 <p>
 <img src="https://i.imgur.com/cYNOQTo.jpeg" height="80%" width="80%" alt="DNS"/>
 </p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
 <p>
 Setup Resources in Azure
 Create the Domain Controller VM (Windows Server 2022) named “DC-1”
